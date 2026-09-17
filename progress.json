@@ -1,0 +1,57 @@
+{
+  "generated_at": "2026-09-17T14:41:15.193Z",
+  "items": {
+    "lab:18": {
+      "kind": "lab",
+      "id": "18",
+      "title": "Train a Linear Regression Model",
+      "difficulty": "easy",
+      "category": "Regression",
+      "url": "https://www.deep-ml.com/labs/18",
+      "path": "labs/0018-train-a-linear-regression-model",
+      "first_solved_at": "2026-09-17T10:47:13.259Z",
+      "last_pushed_at": "2026-09-17T10:47:13.259Z",
+      "language": "python",
+      "lines": 31
+    },
+    "problem:22": {
+      "kind": "problem",
+      "id": "22",
+      "title": "Sigmoid Activation Function Understanding",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/22",
+      "path": "problems/0022-sigmoid-activation-function-understanding",
+      "first_solved_at": "2026-09-17T10:47:53.195Z",
+      "last_pushed_at": "2026-09-17T10:47:53.195Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:23": {
+      "kind": "problem",
+      "id": "23",
+      "title": "Softmax Activation Function Implementation ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/23",
+      "path": "problems/0023-softmax-activation-function-implementation",
+      "first_solved_at": "2026-09-17T10:48:52.834Z",
+      "last_pushed_at": "2026-09-17T10:48:52.834Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:24": {
+      "kind": "problem",
+      "id": "24",
+      "title": "Single Neuron",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/24",
+      "path": "problems/0024-single-neuron",
+      "first_solved_at": "2026-09-17T10:49:27.868Z",
+      "last_pushed_at": "2026-09-17T10:49:27.868Z",
+      "language": "python",
+      "lines": 13
+    }
+  }
+}
